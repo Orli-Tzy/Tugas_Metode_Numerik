@@ -1,4 +1,4 @@
-# Library yang Digunakan
+Library yang Digunakan adalah:
 - numpy
 - scipy
 - matplotlib
